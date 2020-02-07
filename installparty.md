@@ -54,8 +54,8 @@ Features include:
 
 Git is version control system. When developers create something (an app, for example), they make constant changes to the code. Git helps you keep track of all those changes. Git is a command-line tool, and GitHub is where developers store their projects in repositories, or repos.
 
-1. Check if you have Git installed by running `git --version.`
-2. If you don't, run `brew install git.`
+1. Check if you have Git installed by running `git --version`.
+2. If you don't, run `brew install git`.
 3. Make an account on [GitHub](https://github.com/) if you don't already have one and save the password in [1Password](https://1password.com/).
 
 [Git Immersion](http://gitimmersion.com/) is a helpful tutorial on how to use Git.
@@ -75,24 +75,24 @@ VS Code is a text editor that has powerful tools that allow you to be more produ
 
 ##### Launching from the command line
 
-You can open VS Code from the terminal with the command `code` followed by a path, usually `.`, the current directory.
-
 1. Launch VS Code.
 2. Open the Command Palette by pressing `⇧⌘P` and type in `shell command` and click on **Shell Command: Install 'code' command in PATH**.
 3. Restart your terminal for it to take effect.
 4. Test if it worked by typing in `code .`.
 
+You can open VS Code from the terminal with the command `code` followed by a path, usually `.`, the current directory.
+
 We will also be installing [Prettier](https://github.com/prettier/prettier-vscode), which is a code formatter. Prettier will make your code easier to read, helping you have consistent code style and catch bugs and syntax errors.
 
 ##### Prettier
 
-1. Press `⌘P` to launch Quick Open and run `ext install esbenp.prettier-vscode`.
+1. Press `⌘P` in VS Code to launch Quick Open and run `ext install esbenp.prettier-vscode`.
 2. To format on save, go to Code → Preferences → Settings and search for `format on save` and check the box.
 
 #### Python
 
 1. In your terminal, run `brew install python3 pipenv`.
-2. After it's completed, run `python --version` to confirm.
+2. After it's completed, run `python3 --version` to confirm.
 
 Here is a useful tutorial on [how to install Python the IRE way](https://docs.google.com/document/d/1cYmpfZEZ8r-09Q6Go917cKVcQk_d0P61gm0q8DAdIdg/edit).
 
