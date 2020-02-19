@@ -1,6 +1,6 @@
 # Pitch Assignment
 
-First pitch due **Wednesday Feb. 26**.
+Your first pitch assignment is due **Wednesday Feb. 26**.
 
 This class will have four projects, and you will need to submit a pitch for each one. The requirements of each project are flexible. The goal of these projects are to create something publishable, something you can use as a clip in your portfolio. Here are some guidelines for your projects.
 
@@ -27,10 +27,10 @@ This class will have four projects, and you will need to submit a pitch for each
 
 ### Pitch Requirements
 
-1. A summary of your idea or hypothesis, which explains why it is newsworthy. This can be written as a nutgraf.
-2. Links to data sources, or link to a spreadsheet with the data if you've already collected it.
-3. Links to potential human sources. For your final project, you must do some additional reporting and talk to at least one source based on your data analysis.
-4. Example(s) of a publication you could pitch your idea or project to and why.
+- A summary of your idea or hypothesis, which explains why it is newsworthy. This can be written as a nutgraf.
+- Links to data sources, or link to a spreadsheet with the data if you've already collected it.
+- Links to potential human sources. For your final project, you must do some additional reporting and talk to at least one source based on your data analysis.
+- Example(s) of a publication you could pitch your idea or project to and why.
 
 ### Submitting your pitch
 
@@ -40,12 +40,12 @@ This class will have four projects, and you will need to submit a pitch for each
    Here is a useful [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) on how to use Markdown. [Dillinger](https://dillinger.io/) is a useful tool for previewing and saving your Markdown files.
 4. When you are done with your pitch, upload it to Github with the following steps.
 
-   - Go to [GitHub](https://github.com/) and create a new repository called `pitches`. Follow the prompts after you create the new repository.
+Go to [GitHub](https://github.com/) and create a new repository called `pitches`. Follow the prompts after you create the new repository.
 
-   ```
-   git init
-   git add -A
-   git commit -m "your commit message here"
-   git remote add origin git@github.com:<YOUR USERNAME HERE>/pitches.git
-   git push
-   ```
+```
+git init
+git add -A
+git commit -m "your commit message here"
+git remote add origin git@github.com:<YOUR USERNAME HERE>/pitches.git
+git push
+```
