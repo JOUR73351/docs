@@ -31,15 +31,15 @@ All projects must be submitted by publishing through GitHub Pages. I will provid
 
 - Project 1: Data analysis using Google Sheets
   - Pitch due **Feb. 26**
-  - Project due **Mar. 11**
+  - Project due **Mar. 18**
   - Along with your published story, provide a link to the spreadsheet you used to analyze your data.
 - Project 2: Data analysis using Pandas
-  - Pitch due **Mar. 18**
-  - Project due **Apr. 1**
+  - Pitch due **Mar. 25**
+  - Project due **Apr. 8**
   - Along with your published story, upload Pandas notebook to GitHub where I can see your analysis.
 - Project 3: Scrape data using Python and analyze using Google Sheets and Pandas
-  - Pitch due **Apr. 8**
-  - Project due **Apr. 22**
+  - Pitch due **Apr. 15**
+  - Project due **Apr. 29**
   - Along with your published story, upload the Python script you used to scrape the data.
 - Final project: combine skills you learn throughout the semester
   - Pitch due **May 6**
@@ -72,6 +72,13 @@ git push -u origin master
 5. Write your pitch in README.md
    Here is a useful [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) on how to use Markdown. [Dillinger](https://dillinger.io/) is a useful tool for previewing and saving your Markdown files.
 6. When you are done with your pitch, push your changes to GitHub with the following steps.
+
+##### Another way of creating a project
+
+1. Go to [GitHub](https://github.com/) and create a new repository for your project called `google-sheets-project`, making sure to check that box that says `initialize your repository with a README`.
+2. Click on clone or download, making sure that it says `Clone with SSH`. If not, click on SSH.
+3. Click on the clipboard to copy the text to your clipboard.
+4. In your `data-journalism` folder, run `git clone <ctrl+v here>`.
 
 ```
 git add -A
